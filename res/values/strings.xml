@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">周边加油站</string>
+    <string name="dialog_distance_title">请选择检索范围</string>
+    <string name="kilometre_3">3km</string>
+    <string name="kilometre_5">5km</string>
+    <string name="kilometre_8">8km</string>
+    <string name="kilometre_10">10km</string>
+    <string name="station_price">本站油价</string>
+    <string name="province_price">省控基准油价</string>
+    <string name="text_load">正在获取加油站信息…</string>
+
+</resources>
